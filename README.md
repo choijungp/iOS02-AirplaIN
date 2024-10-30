@@ -9,5 +9,5 @@
 
 
 
-|🗂️ 문서|[Wiki](https://github.com/boostcampwm-2024/iOS02-AirplaIN/wiki)|[Figma](https://www.figma.com/design/VWjVZaFHNeyVsxVQ3G8uQ8/iOS02?node-id=6-3&t=VciBXzzKNiRuMNYY-1)|[룰](https://github.com/boostcampwm-2024/iOS02-AirplaIN/wiki/%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%E2%9A%96%EF%B8%8F-%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%A3%B0)|[회의록](https://stripe-spider-60a.notion.site/12db77e61b6381dcb990c4a3c529e989?v=12db77e61b638170a103000cec2019ec)|
+|🗂️ 문서|[Wiki](https://github.com/boostcampwm-2024/iOS02-AirplaIN/wiki)|[Figma](https://www.figma.com/design/VWjVZaFHNeyVsxVQ3G8uQ8/iOS02?node-id=6-3&t=VciBXzzKNiRuMNYY-1)|[룰](https://github.com/boostcampwm-2024/iOS02-AirplaIN/wiki/%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%E2%9A%96%EF%B8%8F-%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%A3%B0)|[회의록](https://buttoned-package-f84.notion.site/12f856db8fa0818b8829ea7237630158?v=12f856db8fa0811593cc000c734f1531&pvs=4)|
 |--|--|--|--|--|
