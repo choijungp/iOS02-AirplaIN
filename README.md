@@ -1,7 +1,7 @@
 # ✈️ AirplaIN
 같은 공간에서 인터넷 없이 나누는 자유로운 순간들
 
-## 조종사들
+## 파일럿s
 |[S027 박승찬](https://github.com/eemdeeks)|[S047 이동현](https://github.com/taipaise)|[S068 최다경](https://github.com/ekrud99)|[S071 최정인](https://github.com/choijungp)|
 |:--:|:--:|:--:|:--:|
 | <img src="https://avatars.githubusercontent.com/u/87136217?v=4" width="120"> | <img src="https://avatars.githubusercontent.com/u/83569908?v=4" width="120"> | <img src="https://avatars.githubusercontent.com/u/99407953?v=4" width="120"> | <img src="https://avatars.githubusercontent.com/u/37467592?v=4" width="120"> | 
