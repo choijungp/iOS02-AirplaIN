@@ -125,6 +125,7 @@
 				5B25A3E12CDB68E500CB7B34 /* Frameworks */,
 				5B25A3E22CDB68E500CB7B34 /* Resources */,
 				5B7C6EAD2CDB6B780024704A /* Embed Frameworks */,
+				00677BC62CDB792D0054EF30 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -164,6 +165,8 @@
 			);
 			mainGroup = 5B25A3DB2CDB68E500CB7B34;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 5B25A3E52CDB68E500CB7B34 /* Products */;
 			projectDirPath = "";
@@ -184,6 +187,26 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		00677BC62CDB792D0054EF30 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$SRCROOT\"/../Scripts/SwiftLintRunScript.sh\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5B25A3E02CDB68E500CB7B34 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -203,6 +226,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = B3PWYBKFUK;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AirplaIN/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -236,6 +260,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = B3PWYBKFUK;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = AirplaIN/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

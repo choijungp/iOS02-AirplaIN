@@ -7,8 +7,6 @@
 
 import DataSource
 import Foundation
-
-
 struct NearbyNetworkStruct {
-    let s = DataSourceStruct()
+    let ssss = DataSourceStruct()
 }
