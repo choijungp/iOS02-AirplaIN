@@ -9,5 +9,5 @@ import DataSource
 import Foundation
 
 struct PersistenceStruct {
-    let sssss = DataSourceStruct()
+
 }

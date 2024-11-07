@@ -16,3 +16,9 @@ public struct NetworkConnection {
         self.name = name
     }
 }
+
+extension NetworkConnection: Equatable {
+    public static func == (lhs: NetworkConnection, rhs: NetworkConnection) -> Bool {
+        return lhs.id == rhs.id
+    }
+}
