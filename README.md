@@ -40,7 +40,7 @@ AirplaIN은 비행기나 크루즈 등 오프라인 환경에서도 주변 사�
 
 ## 🛠️ 기술 스택 및 프로젝트 구조 
 - **언어:** Swift
-- **아키텍처:** MVVM
+- **아키텍처:** MVVM, Clean Architecture
 - **UI 프레임워크:** UIKit, SwiftUI
 - **비동기 작업:** Combine, Swift Concurrency
 - **근거리 통신:** Multipeer Connectivity Framework
@@ -55,6 +55,13 @@ AirplaIN은 비행기나 크루즈 등 오프라인 환경에서도 주변 사�
     - DataSource
     - NearbyNetwork
     - Persistence
+
+<br>
+
+## ⛓️ AirplaIN 데이터 흐름
+- [📋 화이트보드 생성 · 참여 흐름]()
+- [⚡️ 화이트보드 오브젝트 송수신 흐름]()
+- [💬 채팅 송수신 흐름]()
 
 <br>
 
