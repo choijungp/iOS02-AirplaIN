@@ -46,7 +46,8 @@ AirplaIN은 비행기나 크루즈 등 오프라인 환경에서도 주변 사�
 - **근거리 통신:** Multipeer Connectivity Framework
 
 - **모듈화 구조:**
-![Group 13](https://github.com/user-attachments/assets/a2ed1164-d69b-4542-a446-3acc2948854e)
+![Group 97](https://github.com/user-attachments/assets/9b7b99e1-064b-4d71-a30a-55643f54a048)
+
 
     - App
     - Domain
